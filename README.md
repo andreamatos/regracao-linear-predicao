@@ -67,14 +67,14 @@ cd seu-repositorio
 
 3. Execute o script Python:
 
-python predict_house_prices.py
+python predicao.py
 
 
 Isso carregará os dados de imóveis de um arquivo CSV, treinará um modelo de regressão linear e fará uma previsão de preço para um exemplo de imóvel.
 
 ## Arquivos
 
-- `predict_house_prices.py`: O script principal que contém o código para carregar dados, treinar o modelo e fazer previsões.
+- `predicao.py`: O script principal que contém o código para carregar dados, treinar o modelo e fazer previsões.
 - `sao-paulo-properties-april-2019.csv`: O conjunto de dados usado para treinar o modelo.
 - `Readme.md`: Este arquivo que fornece informações sobre o projeto.
 
